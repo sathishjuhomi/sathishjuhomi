@@ -1,1 +1,1 @@
-just of learning git
+just to learning git
